@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ye1 医学论文投稿助手"
+  short_description: "从选刊、投稿准备到投稿进度管理，为医学论文作者组织全流程工作。"
+  default_prompt: "使用 $ye1-journal-submission，我有一篇医学论文，请帮我比较适合的期刊，再整理投稿材料。"
